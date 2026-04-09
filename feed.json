@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "软件分享(奉献的石头熊)",
+    "description": "",
+    "home_page_url": "https://rainssoft.github.io",
+    "feed_url": "https://rainssoft.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://rainssoft.github.io/media/website/unity3d-logo200.png",
+    "author": {
+        "name": "石头熊"
+    },
+    "items": [
+        {
+            "id": "https://rainssoft.github.io/test2.html",
+            "url": "https://rainssoft.github.io/test2.html",
+            "title": "test2",
+            "summary": "标题",
+            "content_html": "\n    <h2 id=\"biao-ti\">\n      标题\n    </h2>\n\n  <div class=\"post__toc\">\n    \n    <ul>\n      <li><a href=\"#biao-ti\">标题</a></li>\n    </ul>\n  </div>\n  \n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "石头熊"
+            },
+            "tags": [
+                   "软件分享",
+                   "unity3d"
+            ],
+            "date_published": "2026-04-09T16:47:30+08:00",
+            "date_modified": "2026-04-09T17:05:24+08:00"
+        }
+    ]
+}
