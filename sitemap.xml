@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://rainssoft.github.io/</loc>
+    <lastmod>2026-04-09T15:54:47+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://rainssoft.github.io/post/hello-gridea/</loc>
+    <lastmod>2026-04-02T21:02:38+08:00</lastmod>
+    <image:image>
+      <image:loc>https://rainssoft.github.io/post-images/hello-gridea.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://rainssoft.github.io/tags/</loc>
+    <lastmod>2026-04-09T15:54:47+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://rainssoft.github.io/tag/gridea/</loc>
+    <lastmod>2026-04-09T15:54:47+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://rainssoft.github.io/tag/gridea-pro/</loc>
+    <lastmod>2026-04-09T15:54:47+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://rainssoft.github.io/archives/</loc>
+    <lastmod>2026-04-09T15:54:47+08:00</lastmod>
+  </url>
+</urlset>
